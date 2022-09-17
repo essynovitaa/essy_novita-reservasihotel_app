@@ -48,3 +48,19 @@ Store “tipe kamar” with “vvip”
 Print “tipe kamar“
 
 
+Condition 2
+Store “tipe A” as number with 200.000
+Store “tipe B” as number with 400.000
+Store “vip” as number with 800.000
+Store “vvip” as number with 1.000.000
+
+IF “ Tipe A“ than
+Print “Rp.200.000”
+Else If “Tipe B “ 
+Print “Rp.400.000”
+Else If “VIP “ 
+Print “Rp.800.000”
+Else If “VVIP “ 
+Print “Rp.1.000.000”
+End If
+
