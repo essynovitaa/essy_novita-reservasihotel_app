@@ -1,0 +1,10 @@
+Pseudocode Aplikasi Sistem Reservasi Hotel 
+
+Halaman Login 
+Read and Write “username” with string.
+Store “username” with “essynovitaa”
+Print “username “
+
+Read and Write “password” with string.
+Store “password” with “essyaja”
+Print “password”
