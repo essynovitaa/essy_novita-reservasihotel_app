@@ -1,0 +1,81 @@
+Pseudocode Aplikasi Sistem Reservasi Hotel 
+
+Halaman Login 
+Read and Write “username” with string.
+Store “username” with “essynovitaa”
+Print “username “
+
+Read and Write “password” with string.
+Store “password” with “essyaja”
+Print “password”
+
+Condition 1 
+Store “username” as Boolean with “essynovitaa”
+Store “password” as Boolean with “essyaja”
+IF “username dan password “ TRUE 
+Print “pesan berhasil”
+Else If “password and username “ FALSE 
+Print “pesan kesalahan”
+End If
+
+Halaman Reservasi Hotel
+Read and Write “nama” with string.
+Store “name” with “Essy Novita”
+Print “nama“
+
+Read and Write “nik” with number
+Store “nik” with “19776382”
+Print “nik “
+
+Read and Write “jenis kelamin” with string.
+Store “jenis kelamin” with “perempuan”
+Print “jenis kelamin“
+
+Read and Write “umur” with number
+Store “umur” with “21”
+Print “umur“
+
+Read and Write “alamat” with string.
+Store “alamat” with “kota pekanbaru”
+Print “username “
+
+Read and Write “jumlah orang” with number.
+Store “jumlah orang” with “3”
+Print “jumlah orang “
+
+Read and Write “Tipe Kamar” with string.
+Store “tipe kamar” with “vvip”
+Print “tipe kamar“
+
+
+Condition 2
+Store “tipe A” as number with 200.000
+Store “tipe B” as number with 400.000
+Store “vip” as number with 800.000
+Store “vvip” as number with 1.000.000
+
+IF “ Tipe A“ than
+Print “Rp.200.000”
+Else If “Tipe B “ 
+Print “Rp.400.000”
+Else If “VIP “ 
+Print “Rp.800.000”
+Else If “VVIP “ 
+Print “Rp.1.000.000”
+End If
+
+Read and Write “tgl.checkin” with string.
+Store “tgl.checkin” with “16/09/2022”
+Print “tgl.checkin “
+
+Read and Write “tgl.checkout” with string.
+Store “tgl.checkout” with “19/009/2022”
+Print “tgl.checkout“
+Store “lama menginap” TIMES “harga kamar”
+Print “total harga”
+
+
+
+
+
+
