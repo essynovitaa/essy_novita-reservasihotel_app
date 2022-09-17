@@ -18,3 +18,33 @@ Else If “password and username “ FALSE
 Print “pesan kesalahan”
 End If
 
+Halaman Reservasi Hotel
+Read and Write “nama” with string.
+Store “name” with “Essy Novita”
+Print “nama“
+
+Read and Write “nik” with number
+Store “nik” with “19776382”
+Print “nik “
+
+Read and Write “jenis kelamin” with string.
+Store “jenis kelamin” with “perempuan”
+Print “jenis kelamin“
+
+Read and Write “umur” with number
+Store “umur” with “21”
+Print “umur“
+
+Read and Write “alamat” with string.
+Store “alamat” with “kota pekanbaru”
+Print “username “
+
+Read and Write “jumlah orang” with number.
+Store “jumlah orang” with “3”
+Print “jumlah orang “
+
+Read and Write “Tipe Kamar” with string.
+Store “tipe kamar” with “vvip”
+Print “tipe kamar“
+
+
