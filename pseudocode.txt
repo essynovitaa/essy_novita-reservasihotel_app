@@ -8,3 +8,13 @@ Print “username “
 Read and Write “password” with string.
 Store “password” with “essyaja”
 Print “password”
+
+Condition 1 
+Store “username” as Boolean with “essynovitaa”
+Store “password” as Boolean with “essyaja”
+IF “username dan password “ TRUE 
+Print “pesan berhasil”
+Else If “password and username “ FALSE 
+Print “pesan kesalahan”
+End If
+
