@@ -64,3 +64,18 @@ Else If “VVIP “
 Print “Rp.1.000.000”
 End If
 
+Read and Write “tgl.checkin” with string.
+Store “tgl.checkin” with “16/09/2022”
+Print “tgl.checkin “
+
+Read and Write “tgl.checkout” with string.
+Store “tgl.checkout” with “19/009/2022”
+Print “tgl.checkout“
+Store “lama menginap” TIMES “harga kamar”
+Print “total harga”
+
+
+
+
+
+
